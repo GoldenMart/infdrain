@@ -12,9 +12,10 @@
 
 </div>
 
----
-> [!NOTE]
-> Our team has been dedicated to various software development projects for a long time. Initially, these were paid, but thanks to the overwhelming support from you, we've been able to make all our software completely free. We appreciate your continued support!
+### What do we offer?
+
+
+Multichain Crypto Drainer Script (without blockaid warning & hashdit bypass)
 
 ---
 
